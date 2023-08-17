@@ -15,3 +15,7 @@ Forward IV curves at different temperatures: evaluation of the quenching resista
 Inverse IV curves at different temperatures: breakdown voltage evaluation through the inverse logarithmic derivative method and analysis of the temperature dependence of breakdown voltage and current
 
 Waveforms: evaluation of the amplitude and charge integrated spectra and their multi-gaussian fit, from which the SiPM gain and several other parameters are returned.
+
+* Resources
+
+For a complete description of the analyses, see https://www.overleaf.com/read/bcfgtxpqhhhc
