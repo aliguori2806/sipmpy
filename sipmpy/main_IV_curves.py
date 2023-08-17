@@ -61,3 +61,4 @@ if __name__ == '__main__':
     ### Inverse IV analysis: ratio of the IV curves with respect to the curve at 5°C to see the effect of temperature variations
     i_iv_type = 1
     plot_normalized_inverse_IV(ivs[i_iv_type], Vbd)
+

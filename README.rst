@@ -2,17 +2,17 @@ sipmpy
 
 =======
 
-Python Framework for SiPM data analysis
+Python Framework for SiPM data analysis.
 
-* Requirements: standard Python libraries, among which
-  - numpy
-  - pandas
-  - matplotlib
-  - iminuit
+* Requirements: standard Python libraries, such as pandas, matplotlib, threading and iminuit for the fit procedures.
 
-* Documentation:
+* Installation: 
 
-* Installation:
+Download the sipmpy package. Let <path> be the string of the absolute path of the sipmpy folder.
+In your scripts, you can import sys and add in your code the line 
 
-License
--------
+sys.path.insert(0, "<path>")
+
+otherwise you can add <path> to the environmental variable $PYTHONPATH like this
+
+export PYTHONPATH=$PYTHONPATH:<path>
